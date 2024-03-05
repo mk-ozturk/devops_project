@@ -58,6 +58,32 @@ Api key gibi uniq ve sadece ozel kullanim icin sunulan dosyalarin uzak depoya go
 Bu komut ile yaptimiz commitlerin bir nickinin olmasini saglar. Boylelikle versiyon gibi ayrimlari yapmak kolaylasir 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
- 
+ 23. git diff commit1 commit2 bu komu ne iş yapar 
 
- 
+iki commit arasidnaki farklari gosterir.
+------------------------------------------------------------------------------------------------------------------------------------------
+
+24.DevOps kültür felsefesi nedir ?
+
+gelistirici ekipleri ile operasyon ekiplerinin isbirligine dayali olan yazilim gelistirme, test ve deployment sureclerini optimum duruma
+getirip guvenilir, hizli ve yuksek kaliteli ortam sunan bakis acisidir.
+
+Urun uretimi yani sira ekipler arasi iyi iliskileri de guclendirerek hosgorulu ve verimli bir ortam saglar. 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+25.DevOps açılımı ?(24 ile 25 sorular degisin)
+
+Development ve operasyon kelimelerinin kisaltilmasi ile olusur.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+26.adım: DevOps Yöntemlerinden Continous Integration/Continoues Delivery-Deployment süreçler hakkında bildilerimizi yazalım.
+
+Devops  arastirmalari yapildigidna ilk aklimiza gelen olgi CI(Continoues Integration) ve Cd (Continoues Deployment) harflerinnin
+karsimizia cikardigi CI/CD  harf obegidir. 
+
+Continous Integration: Gelistirme ortamlarinda surekli olarak gelistirilen uygulamalarin test edilmesi ve dogrulanmasi gerekmektedir.
+Bu durumu otomatik hale getirmek CI kismini olusturur.
+
+Continoues Deployment: Testleri gecen urunlerin dagitilip canliya aktarilmasinin otomatiklestirilmesi de CD bolumunu olusturmaktadir.

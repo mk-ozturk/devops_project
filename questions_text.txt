@@ -1,0 +1,63 @@
+5.Adim: Git nedir? VCS Acilimi nedir? Iyi bir commitin ozellikleri nelerdir. 
+
+Git: versiyon kontrol sistemidir. Gelistiricilerin uygulama gelistirirken olusan degisiklikleri kayit etme ve kontrol etme sistemidir. 
+
+Iyi commit ozellikleri: Yapilan degisiklikler anlamli bir not ile yapilmalidir. Uygulama gelistiriken sik bir sekilde commitlenmeli buyuk degisiklikler yapilmadan kucuk kucuk degisiklikler yapilmaldir. Kodlar surekli olarak  test edilerek commitlenmesi gelecek guncellemer acisindan sorunsuz ilerlemesini saglar. 
+------------------------------------------------------------------------------------------------------------------------------------------
+
+7.adim: Git staged area ve unstaged area nedir ? 
+
+Unstaged area: calismalarimizi yaptigimiz ama daha commit etmedigimiz kisimdir. Degisiklikler localde depolanmamis editorde calisamya devam ettigimiz alan da denebilir.\ 
+
+Staged area: commit yaptigimiz ve pushlamaya hazir oldugumuz localimizdeki degisiklikleri kaydettigimiz yerdir. 
+------------------------------------------------------------------------------------------------------------------------------------------
+
+11. Adim:git log ve git status ne iş yapıyordu. 
+
+Git log: bizim repomuzda yaptigimiz commitlerle ilgili kaydini tutar 
+
+Git statu: O anki calismamizin durmunu hangi branchte oldugumnzu vs gibi durumlari soyler. 
+------------------------------------------------------------------------------------------------------------------------------------------
+
+13.adim: Git GUI ve Git CLI nedir? 
+
+Git gui: git depolarindaki repolari yonetmek icin kullanilan kodlarin grafik arayuzu ile kullanilan uygulamasidir. 
+
+Git cli: kodlar ile git depolarini  yonetmemizi saglayan grafik arayuzu olmayan kisimdir. 
+------------------------------------------------------------------------------------------------------------------------------------------
+
+16.adim: git stash nedir ? 
+
+Uzerinde calistigimiz konu disinda baska bir konuya gecmek ama calistigimizi da kaybetmnemek icin kullandigimiz ozelliktir. Git stash ile commit etmek istemedigimiz ama kayip etmek istemedigimiz calismalari on bellekde tutabiliyoruz. 
+------------------------------------------------------------------------------------------------------------------------------------------
+
+19.adim: Rebesa ile merge arasındaki fark nedir ? 
+
+Branchleri bir araya getiren iki farkli yontemdir. 
+
+Rebesa: brenchleri dogrusal bir tarih olusturarak yeniden yazar.  
+
+Merge: branchleri birlestirerek yeni bir yeni bir merge commit olusturur. Brenchlerin gecmisini korur 
+------------------------------------------------------------------------------------------------------------------------------------------
+
+20.adim: Git Conflict nedir ? Bir conflict yediğimizde ne yapmamız gerekiyor ? 
+
+Git conflict: Birden fazla commit ayni dosyadaki ayni satiridegistirmis oldugunda meydana gelir. 
+
+Git status gkullanilarak hangi dosyada sorun meyadan geldigine bakalir. Hangi commitin gonderilecegeni secmemiz ve digerinin silinmesi gerekir bu ioslemler yapilinca pushlama islemimiz yapilabilir. 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+21.adim: git ignore nedir ? 
+
+Api key gibi uniq ve sadece ozel kullanim icin sunulan dosyalarin uzak depoya gonderilmesini engellemek icin kullanilan git dosyasidir. 
+
+ ------------------------------------------------------------------------------------------------------------------------------------------
+
+22.adim: git tag v1.1 ? Bu komu ne iş yapar ? 
+
+Bu komut ile yaptimiz commitlerin bir nickinin olmasini saglar. Boylelikle versiyon gibi ayrimlari yapmak kolaylasir 
+------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 

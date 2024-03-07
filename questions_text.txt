@@ -44,7 +44,8 @@ Merge: branchleri birlestirerek yeni bir yeni bir merge commit olusturur. Brench
 
 Git conflict: Birden fazla commit ayni dosyadaki ayni satiridegistirmis oldugunda meydana gelir. 
 
-Git status gkullanilarak hangi dosyada sorun meyadan geldigine bakalir. Hangi commitin gonderilecegeni secmemiz ve digerinin silinmesi gerekir bu ioslemler yapilinca pushlama islemimiz yapilabilir. 
+Git status gkullanilarak hangi dosyada sorun meyadan geldigine bakalir. Hangi commitin gonderilecegeni secmemiz ve digerinin silinmesi gerekir bu 
+islemler yapilinca pushlama islemimiz yapilabilir. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 21.adim: git ignore nedir ? 
@@ -84,9 +85,9 @@ Devops  arastirmalari yapildigidna ilk aklimiza gelen olgi CI(Continoues Integra
 karsimizia cikardigi CI/CD  harf obegidir. 
 
 Continous Integration: Gelistirme ortamlarinda surekli olarak gelistirilen uygulamalarin test edilmesi ve dogrulanmasi gerekmektedir.
-Bu durumu otomatik hale getirmek CI kismini olusturur.
+Bu kisim CI bolumudur.
 
-Continoues Deployment: Testleri gecen urunlerin dagitilip canliya aktarilmasinin otomatiklestirilmesi de CD bolumunu olusturmaktadir.
+Continoues Deployment: Testleri gecen projelerin dagitilip canliya aktarilmasinin otomatiklestirilmesi de CD bolumunu olusturmaktadir.
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------

@@ -87,3 +87,110 @@ Continous Integration: Gelistirme ortamlarinda surekli olarak gelistirilen uygul
 Bu durumu otomatik hale getirmek CI kismini olusturur.
 
 Continoues Deployment: Testleri gecen urunlerin dagitilip canliya aktarilmasinin otomatiklestirilmesi de CD bolumunu olusturmaktadir.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+27.adım: DevOps Yöntemlerinden git nedir ?
+
+Git: Bir versiyon kontrol sistemidir. Yazilim gelistirme surecinde yapilan degisikliklerin duzenlenmesi kontrol edilmesi ve depolanmasinda rol oynar.
+Depolama yapmak icin github gibi repo depolari kullanilir.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+28.adım: DevOps Yöntemlerinden Agile nedir ?
+
+Yazilim gelistirme ve teslimat sureclerini hizli ve sorunsuz bicimde gelistirmesine yonelik ilkeler ortaya koyan cevik bir metadolojidir.
+
+Agile yonteminin merkezinde musteri odakli cozum yontemleri, surekli teslimat, is birligi, kendi kendine organize olma ve surekli 
+iyilestirme bulunmaktadir
+
+''''''28. adima foto eklenecek '''''''''''''
+------------------------------------------------------------------------------------------------------------------------------------------
+29.adım: DevOps Continues monitoring nedir ?
+
+Uygulamanin durumunu, performansini ve guvenligini surekli olarak izlemeye denir. Surekli olarak izlenen 
+operasyonun kalitesi ve hata orani azalir. Sorunlar hizli bir sekilde tespit edilip cozumu yapilir ve 
+gereken performans optimizasyonlari ile aninda sisteme mudahale edilerek devops operasyonun optimum 
+verimlilikle calismasini saglar.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+30.adım: Aşağıdaki içeriklerin açılımları ve ne olduğunu yazalım. ?
+
+XNL:
+JSON:JavaScript Object Notation kisaltilmasidir. Verilerin kolayca islenebilir bir formatidir. 
+Yaml:YAML Ain't Markup Language acilimi bu sekildedir. Verilerin insan tarafindan kunabilir bir formatta\
+organize etmek icin kullanilir. docker-compose, kubernetes gibi uygulamalar bu yazi sitili ile kullanilabilir.
+HTTP: Hypertext Transfer Protocol kisaltilmasidir. Web de host ile browserin veri alisverisini yapmasi icin 
+kullanilir.
+Server: Ag uzerinden diger bilgisayarlar tarafindan erisilebilen  ve bu bilgisayarlara hizmet sunan 
+bilgisayara verilen isimdir.  Web siteleri, oyun altyapilari gibi seyler bu sistemi kullanir.
+Java JDK: Java Development Kitin kisaltilmasidir. Gelistiricilere sunulan java programlari 
+gelistirmek icin kullanilan  arac ve kutuphanelerden olusur.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+31.adım: Maven nedir ? mavende ➔ clean install görevi nedir ?
+ 
+Maven, öncelikle Java projeleri için kullanılan, güçlü bir yazılım proje yönetimi ve derleme otomasyon aracıdır.
+clean install cache bellek temizler ve compiler yapar.
+------------------------------------------------------------------------------------------------------------------------------------------
+32.adım: Docker nedir ? Docker Daemon, Docker CLI ne iş yapıyor ?
+ 
+Docker google tarafidnan gelistirilen konteynirizizasyon programidir. izole konteynerler kurarak
+icerlerinde image e donusturulen programlarin calistirilmasini saglayan yapidir. 
+
+Docker Daemon: Docker da imageleri ve konteynerleri yoneten yapidir.
+Docker CLI: Docker uygulamasinin komut satiri ile yonetilmesini saglayan sistemdir. Bu yonetimi aslinda
+docker daemon yapar cli sadece neler yapacagini iletir.
+ 
+ 
+------------------------------------------------------------------------------------------------------------------------------------------
+38.adım: SonarQube nedir ?
+Acik kaynak kodlu bir platformdur. Kod kalitesinin, guvenliginin, surekliliginin kontrol edilmesini
+gibi durumlari analiz edip duzeltilmesine yardimci olan bir uygulamadir.
+------------------------------------------------------------------------------------------------------------------------------------------
+41.adım: - GitLab nedir ?
+Git alt yapisini kullanan kaynak kod yonetimi ve proje yonetimi platformudur. Kolaylikla CI/CD pipeline
+kurulabilir. Jenkins e gore daha kolay olsa da ozellestirilme acisindan Jenkins kadar esnek degildir ve 
+bazi ozelliklerini kullanmak icin ucret talep eder.
+------------------------------------------------------------------------------------------------------------------------------------------
+42.adım: - GitLab nedir CI/CD nedir ?
+------------------------------------------------------------------------------------------------------------------------------------------
+
+43.adım: - GitLab Runner nedir ?
+------------------------------------------------------------------------------------------------------------------------------------------
+44.adım: - SSH nedir ?
+
+Uzaktan bilgisayarlara guvenli bir sekilde baglanilmak icin kullanilan ag protokoludur. Yapilan islemler 
+sifreleme yolu ile korundugu icin guvenlik sorunlari en aza indirilir. 
+
+ssh kullanici_adi@hedef_sunucu_ip_adresi  komutlari ile baglanti yapilir. 
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+46.adım: - Prometheus nedir, Jenkins nedir ?
+Jenkins: GitLab gibi CI/CD sureclerini yapan uygulamalardan bir tanesidir. Acik kodludur ve ucretsizdir.
+Eklenti havuzu fazladir.
+Prometheus:Prometheus, açık kaynaklı bir izleme ve uyarı sistemidir. Sunucuları, uygulamaları, 
+ağ cihazlarını ve çeşitli altyapı bileşenlerini izlemek için kullanılır. Prometheus, modern 
+DevOps ortamlarında oldukça popüler bir araçtır 
+------------------------------------------------------------------------------------------------------------------------------------------
+47.adım: - Ansible nedir ?
+------------------------------------------------------------------------------------------------------------------------------------------
+48.adım: - Kubernates nedir ?
+
+Kubernetes konteyner orkestrasyon uygulamasidir. Devasa boyuttaki projelerdeki konteynerleri yonetmemizi
+kolaylastiran bir platformdur. Acik kaynak kodludur
+------------------------------------------------------------------------------------------------------------------------------------------
+49.adım: - Datadog Monitoring nedir ?
+------------------------------------------------------------------------------------------------------------------------------------------
+50.adım: - Kanban nedir ?
+------------------------------------------------------------------------------------------------------------------------------------------
+51.adım: - Devops nedir, Süreçleri nelerdir ?
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+

@@ -183,7 +183,7 @@ DevOps ortamlarında oldukça popüler bir araçtır
 48.adım: - Kubernates nedir ?
 
 Kubernetes konteyner orkestrasyon uygulamasidir. Devasa boyuttaki projelerdeki konteynerleri yonetmemizi
-kolaylastiran bir platformdur. Acik kaynak kodludur
+kolaylastiran bir platformdur. Acik kaynak kodludur.
 ------------------------------------------------------------------------------------------------------------------------------------------
 49.adım: - Datadog Monitoring nedir ?
 ------------------------------------------------------------------------------------------------------------------------------------------

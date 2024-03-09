@@ -1,29 +1,35 @@
-5.Adim: Git nedir? VCS Acilimi nedir? Iyi bir commitin ozellikleri nelerdir. 
+++++5.Adim: Git nedir? VCS Acilimi nedir? Iyi bir commitin ozellikleri nelerdir. 
 
 Git: versiyon kontrol sistemidir. Gelistiricilerin uygulama gelistirirken olusan degisiklikleri kayit etme ve kontrol etme sistemidir. 
 
 Iyi commit ozellikleri: Yapilan degisiklikler anlamli bir not ile yapilmalidir. Uygulama gelistiriken sik bir sekilde commitlenmeli buyuk degisiklikler yapilmadan kucuk kucuk degisiklikler yapilmaldir. Kodlar surekli olarak  test edilerek commitlenmesi gelecek guncellemer acisindan sorunsuz ilerlemesini saglar. 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-7.adim: Git staged area ve unstaged area nedir ? 
++++7.adim: Git staged area ve unstaged area nedir ? 
 
 Unstaged area: calismalarimizi yaptigimiz ama daha commit etmedigimiz kisimdir. Degisiklikler localde depolanmamis editorde calisamya devam ettigimiz alan da denebilir.\ 
 
 Staged area: commit yaptigimiz ve pushlamaya hazir oldugumuz localimizdeki degisiklikleri kaydettigimiz yerdir. 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-11. Adim:git log ve git status ne iş yapıyordu. 
++++11. Adim:git log ve git status ne iş yapıyordu. 
 
 Git log: bizim repomuzda yaptigimiz commitlerle ilgili kaydini tutar 
 
 Git statu: O anki calismamizin durmunu hangi branchte oldugumnzu vs gibi durumlari soyler. 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-13.adim: Git GUI ve Git CLI nedir? 
++++13.adim: Git GUI ve Git CLI nedir? 
 
 Git gui: git depolarindaki repolari yonetmek icin kullanilan kodlarin grafik arayuzu ile kullanilan uygulamasidir. 
 
 Git cli: kodlar ile git depolarini  yonetmemizi saglayan grafik arayuzu olmayan kisimdir. 
+---------------------------------------
+14-15 slayta eklencek 
+
+
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 16.adim: git stash nedir ? 
@@ -38,6 +44,8 @@ Branchleri bir araya getiren iki farkli yontemdir.
 Rebesa: brenchleri dogrusal bir tarih olusturarak yeniden yazar.  
 
 Merge: branchleri birlestirerek yeni bir yeni bir merge commit olusturur. Brenchlerin gecmisini korur 
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 20.adim: Git Conflict nedir ? Bir conflict yediğimizde ne yapmamız gerekiyor ? 
@@ -69,7 +77,7 @@ iki commit arasidnaki farklari gosterir.
 gelistirici ekipleri ile operasyon ekiplerinin isbirligine dayali olan yazilim gelistirme, test ve deployment sureclerini optimum duruma
 getirip guvenilir, hizli ve yuksek kaliteli ortam sunan bakis acisidir.
 
-Urun uretimi yani sira ekipler arasi iyi iliskileri de guclendirerek hosgorulu ve verimli bir ortam saglar. 
+Uretimi yani sira ekipler arasi iyi iliskileri de guclendirerek hosgorulu ve verimli bir ortam saglar. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 

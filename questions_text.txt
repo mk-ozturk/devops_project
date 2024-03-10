@@ -114,7 +114,7 @@ Yazilim gelistirme ve teslimat sureclerini hizli ve sorunsuz bicimde gelistirmes
 Agile yonteminin merkezinde musteri odakli cozum yontemleri, surekli teslimat, is birligi, kendi kendine organize olma ve surekli 
 iyilestirme bulunmaktadir
 
-''''''28. adima foto eklenecek '''''''''''''
+''''''tekrar bak '''''''''''''  
 ------------------------------------------------------------------------------------------------------------------------------------------
 29.adım: DevOps Continues monitoring nedir ?
 
@@ -158,6 +158,8 @@ docker daemon yapar cli sadece neler yapacagini iletir.
 38.adım: SonarQube nedir ?
 Acik kaynak kodlu bir platformdur. Kod kalitesinin, guvenliginin, surekliliginin kontrol edilmesini
 gibi durumlari analiz edip duzeltilmesine yardimci olan bir uygulamadir.
+
+********************sonarqube uygulamasi yap*************
 ------------------------------------------------------------------------------------------------------------------------------------------
 41.adım: - GitLab nedir ?
 Git alt yapisini kullanan kaynak kod yonetimi ve proje yonetimi platformudur. Kolaylikla CI/CD pipeline

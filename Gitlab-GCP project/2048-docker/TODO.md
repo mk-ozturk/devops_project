@@ -1,0 +1,1 @@
+- [ ] See if alpine can be used to bring down image size
